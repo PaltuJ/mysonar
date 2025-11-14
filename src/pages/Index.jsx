@@ -8,7 +8,7 @@ import HeroBanner from "../components/HeroBanner";
 import ImageGallery from "../components/ImageGallery";
 import ReviewSlide from "../components/ReviewSlide";
 import SafeExperiece from "../components/SafeExperiece";
-import ServiceFor from "../components/serviceFor";
+import ServiceFor from "../components/ServiceFor";
 import Usp from "../components/Usp";
 import ServiceInCityPage from "./ServiceInCityPage";
 // import CheckOutPolicy from "./CheckOutPolicy";
